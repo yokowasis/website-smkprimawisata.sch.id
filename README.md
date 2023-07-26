@@ -139,3 +139,22 @@ menus:
 ```
 
 untuk bagian link sama dengan nama file hanya saja **tanpa** extensi `.md`.
+
+# Gallery
+
+Untuk menambah galeri foto, upload foto - foto ke dalam folder `gallery`. Lalu edit file `_config.yml`. Dan rubah bagian :
+
+```
+galleries:
+  - title: Foto 1
+    img: xxx.jpeg
+```
+
+sesuai dengan nama file yang di upload. Contoh :
+```
+galleries:
+  - title: Foto Penerimaan PPDB
+    img: /gallery/penerimaan-ppdb.jpeg
+  - title: Pawai Hari Kemerdekaan
+    img: /gallery/pawai.jpeg
+```
