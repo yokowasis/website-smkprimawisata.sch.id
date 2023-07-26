@@ -99,3 +99,6 @@ Disini di tulis berita yang terbaru
 File harus di awali dengan metadata yang di awali dan di akhiri dengan `---`. Isi berita di tulis di bawah metadata.
 
 Penulisan isi berita menggunakan `markdown`. [Panduan Markdown](https://www.petanikode.com/markdown-pemula/).
+
+## Menghapus Berita
+Untuk menghapus berita, hapus file pada folder `_posts`.
