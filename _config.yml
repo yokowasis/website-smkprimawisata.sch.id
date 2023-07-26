@@ -57,7 +57,7 @@ submenu:
     link: "https://youtube.com/@man2kotabima"
     icon: /images/sosmed/twitter.png
   - title: Whatsapp
-    link: "+6282339864138"
+    link: "+6281806927721"
     icon: /images/sosmed/wa.png
   - title: Alumni
     link: "#"
@@ -81,13 +81,13 @@ sliders:
 
 galleries:
   - title: Foto 1
-    img: /gallery/foto (1).jpeg
+    img: /images/WhatsApp Image 2023-07-15 at 13.39.14.jpeg
   - title: Foto 2
-    img: /gallery/foto (2).jpeg
+    img: /images/WhatsApp Image 2023-07-15 at 13.39.14.jpeg
   - title: Foto 3
-    img: /gallery/foto (3).jpeg
+    img: /images/WhatsApp Image 2023-07-15 at 13.39.14.jpeg
   - title: Foto 4
-    img: /gallery/foto (4).jpeg
+    img: /images/WhatsApp Image 2023-07-15 at 13.39.14.jpeg
 
 jekyll-archives:
   enabled: all
