@@ -32,6 +32,8 @@ menus:
   - title: Home
     link: /
   - title: Kompetensi Keahlian
+  - title: /Perhotelan
+  - title: /Kuliner
     link: /Perhotelan
     link : /Kuliner
   - title: Kurikulum
