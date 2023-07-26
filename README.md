@@ -60,3 +60,42 @@ sliders:
     link: /berita/2023/07/27/contoh-url-post.html
     linktext: Berita Selengkapnya
 ```
+
+## Menambah Berita
+
+![newpost](/tutorial/newpost.gif)
+
+### Format Nama File
+1. Buat file baru pada folder `_posts`
+![ss1](/tutorial/ss1.png)
+2. Nama file harus memiliki syarat :
+- Diawali tanggal post
+- Tidak memiliki spasi
+- Huruf kecil semua
+- Berextensi `md`
+
+Contoh :
+
+`2023-07-27-ini-adalah-contoh-post.md`
+
+Bagian tanggal sebaiknya diisi tanggal kemarin agar berita bisa langsung terbit.
+
+### Format Isi
+
+```
+---
+layout: post
+title: "Contoh Post Baru"
+date: 2023-07-26
+categories: Berita
+img: https://asset.kompas.com/crops/7NiOCG5IO9HArWHndVTRRNLa-Mo=/0x0:917x611/750x500/data/photo/2022/11/18/6377237c17e09.jpg
+author: Wasis H.S.
+editor: Wasis H.S.
+---
+
+Disini di tulis berita yang terbaru
+```
+
+File harus di awali dengan metadata yang di awali dan di akhiri dengan `---`. Isi berita di tulis di bawah metadata.
+
+Penulisan isi berita menggunakan `markdown`. [Panduan Markdown](https://www.petanikode.com/markdown-pemula/).
