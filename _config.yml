@@ -1,18 +1,18 @@
-title: MAN 2 Kota Bima
+title: SMK PRIMAWISATA
 author:
-  name: man2kotabima2
-  email: man2kotabima2@gmail.com
+  name: smkprimawisata
+  email: smkprimawisata@gmail.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  MAN 2 Kota Bima adalah sekolah Menengah Atas berkualitas 
+  SMK PRIMAWISATA adalah sekolah Menengah Atas berkualitas 
   dengan fasilitas memadai dan program unggulan, 
   dilengkapi dengan tenaga pendidik berpengalaman dan 
   metode pembelajaran inovatif.
 
 sambutan: >
-  Selamat datang di website MAN 2 Kota Bima, sekolah yang memiliki visi untuk mencetak 
+  Selamat datang di website SMK PRIMAWISATA, sekolah yang memiliki visi untuk mencetak 
   siswa-siswi yang berprestasi, berakhlakul karimah, peduli lingkungan, berwawasan global yang dilandasi iman dan taqwa.
   Kami sangat berkomitmen untuk memberikan pendidikan terbaik bagi para siswa kami dengan 
   fasilitas yang memadai dan tenaga pendidik yang berpengalaman. Kami percaya bahwa setiap 
@@ -25,7 +25,7 @@ logofooter: /images/footer_logo.png
 icon: /images/kemenag.png
 
 alamat: Jl. Wolter Monginsidi No. 02, Kel. Sarae, Kec. Rasanae Barat, Kota Bima, NTB
-email: man2kotabima2@gmail.com
+email: smkprimawisata@gmail.com
 phone: "(0374) 42374"
 
 menus:
@@ -67,12 +67,12 @@ submenu:
 
 
 sliders:
-  - title: MAN 2 Kota Bima
+  - title: SMK PRIMAWISATA
     text: Selamat Datang
     image: /gallery/man2kobi.jpeg
     link: /category/berita
     linktext: INFO TERBARU 
-  - title: MAN 2 Kota Bima
+  - title: SMK PRIMAWISATA
     text: Selamat Datang
     image: /gallery/slider.jpg
     link: /category/berita
