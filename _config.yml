@@ -75,7 +75,7 @@ sliders:
     linktext: INFO TERBARU 
   - title: SMK PRIMAWISATA
     text: Selamat Datang
-    image: /gallery/slider.jpg
+    image: /gallery/images/WhatsApp Image 2023-07-15 at 13.39.14.jpeg
     link: /category/berita
     linktext: INFO TERBARU
 
@@ -110,7 +110,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
 
-copyright: © copyright 2023 Bimasoft
+copyright: © copyright 2023 Noerdzamann
 
 # Theme-specific settings
 
