@@ -40,7 +40,7 @@ menus:
   - title: Hubungan Industri
     link: /pages/profil
   - title: Download
-    link: https://aplikasi.man2kobi.sch.id/
+    link: /
 
 submenu:
   - title: PPDB
