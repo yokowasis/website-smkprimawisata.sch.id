@@ -32,7 +32,8 @@ menus:
   - title: Home
     link: /
   - title: Kompetensi Keahlian
-    link: /pages/ppdb
+    link: /Perhotelan
+    link : /Kuliner
   - title: Kurikulum
     link: /category/berita
   - title: Kesiswaan
