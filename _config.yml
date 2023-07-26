@@ -24,22 +24,22 @@ logo: /images/logo.png
 logofooter: /images/footer_logo.png
 icon: /images/kemenag.png
 
-alamat: Jl. Wolter Monginsidi No. 02, Kel. Sarae, Kec. Rasanae Barat, Kota Bima, NTB
-email: smkprimawisata@gmail.com
-phone: "(0374) 42374"
+alamat: Jl. Raya Bugis No.109 Kembangan Selatan Jakarta Barat 11610
+email: smkprimawisata20@gmail.com
+phone: "(021) 583586635"
 
 menus:
   - title: Home
     link: /
-  - title: PPDB
+  - title: Kompetensi Keahlian
     link: /pages/ppdb
-  - title: Berita
+  - title: Kurikulum
     link: /category/berita
-  - title: BOARDING SCHOOL
+  - title: Kesiswaan
     link: /pages/boardingschool
-  - title: Profil
+  - title: Hubungan Industri
     link: /pages/profil
-  - title: Aplikasi
+  - title: Download
     link: https://aplikasi.man2kobi.sch.id/
 
 submenu:
