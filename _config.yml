@@ -76,6 +76,7 @@ sliders:
     image: images/DSCF7462.JPG
     link: /category/berita
     linktext: INFO TERBARU
+    
 galleries:
   - title: Foto 1
     img: /images/WhatsApp Image 2023-07-15 at 13.39.14.jpeg
