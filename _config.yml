@@ -64,16 +64,10 @@ submenu:
     link: "#"
     icon: /images/calendar.png
 
-
 sliders:
   - title: SMK PRIMAWISATA 
     text: Selamat Datang
     image: /images/Photo Guru Guru.jpeg
-    link: /category/berita
-    linktext: INFO TERBARU 
-  - title: SMK PRIMAWISATA
-    text: Selamat Datang
-    image: /gallery/images/Photo Guru Guru.jpeg
     link: /category/berita
     linktext: INFO TERBARU
 
