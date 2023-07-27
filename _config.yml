@@ -2,7 +2,7 @@ title: SMK PRIMAWISATA
 namasekolah : SMK PRIMAWISATA
 author: 
   name: smkprimawisata
-  email: smkprimawisata@gmail.com
+  email: smkprimawisata20@gmail.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
@@ -31,7 +31,7 @@ phone: "(021) 583586635"
 
 menus:
   - title: Home
-    link: /
+    link: /page/
   - title: Kurikulum
     link: /Pages/Kompetensi Keahlian
   - title: Kesiswaan
