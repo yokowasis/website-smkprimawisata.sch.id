@@ -140,6 +140,36 @@ menus:
 
 untuk bagian link sama dengan nama file hanya saja **tanpa** extensi `.md`.
 
+## Menambah Submenu
+Untuk menambah submenu, edit file `_config.yml`.
+
+Rubah bagian menu yang mau di tambah submenu. Contoh sebelum dirubah :
+
+```
+menus:
+  - title: Home
+    link: /
+  - title: Info PPDB
+    link: /info-ppdb
+```
+
+menjadi :
+
+```
+menus:
+  - title: Home
+    link: /
+  - title: Info PPDB
+    link: #info-ppdb
+    submenus:
+    - title: Jadwal PPDB
+      link: /jadwal-ppdb
+    - title: Pengumuman
+      link: /pengumuman-ppdb
+```
+
+perhatikan bagian link root menu berubah dan diawali dengan `#` bukan lagi dengan `/`.
+
 # Gallery
 
 Untuk menambah galeri foto, upload foto - foto ke dalam folder `gallery`. Lalu edit file `_config.yml`. Dan rubah bagian :
