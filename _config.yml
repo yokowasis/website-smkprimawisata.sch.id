@@ -38,7 +38,7 @@ menus:
     - title: Profil Sekolah
       link: /page/
     - title: Visi Misi
-      link: /page/
+      link: /page/ 
     - title: Kompetensi Keahlian
       link: #Kurikulum
       Submenus:
