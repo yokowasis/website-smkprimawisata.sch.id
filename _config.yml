@@ -33,8 +33,9 @@ menus:
   - title: Home
     link: /page/
   - title: Kurikulum
+    link: /Page/ Struktur Kurikulum  
     link: /Pages/Kompetensi Keahlian
-  - title: Kesiswaan
+  - title: Kesiswaan 
     link: /pages/boardingschool
   - title: Hubungan Industri
     link: /pages/profil
