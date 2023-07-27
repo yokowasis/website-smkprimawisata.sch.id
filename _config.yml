@@ -33,7 +33,7 @@ menus:
   - title: Home
     link: /page/
   - title: Kurikulum
-    icon: /images/sosmed/twitter.png 
+    link: /page/  
   - title: Kesiswaan 
     link: /pages/boardingschool
   - title: Hubungan Industri
