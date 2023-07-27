@@ -69,9 +69,9 @@ submenu:
 
 
 sliders:
-  - title: SMK PRIMAWISATA
+  - title: SMK PRIMAWISATA 
     text: Selamat Datang
-    image: /gallery/images/Photo Guru Guru.jpeg
+    image: /images/Photo Guru Guru.jpeg
     link: /category/berita
     linktext: INFO TERBARU 
   - title: SMK PRIMAWISATA
