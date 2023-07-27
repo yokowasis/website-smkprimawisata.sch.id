@@ -32,11 +32,8 @@ phone: "(021) 583586635"
 menus:
   - title: Home
     link: /
-  - title: Kompetensi Keahlian
-    link: /Perhotelan
-    link : /Kuliner
   - title: Kurikulum
-    link: /category/berita
+    link: /Kompetensi Keahlian
   - title: Kesiswaan
     link: /pages/boardingschool
   - title: Hubungan Industri
