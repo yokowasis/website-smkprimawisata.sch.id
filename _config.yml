@@ -33,7 +33,7 @@ menus:
   - title: Home
     link: /page/
   - title: Kurikulum
-    link: # Kompetensi Keahlian
+    link: #Kompetensi Keahlian
     submenus:
     - title: Perhotelan
       link: /page/
