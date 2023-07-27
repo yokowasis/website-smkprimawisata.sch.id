@@ -39,12 +39,14 @@ menus:
       link: /page/
     - title: Visi Misi
       link: /page/ 
-    - title: Kompetensi Keahlian
+    - title: Prog. Keahlian
       link: #Kurikulum
       Submenus:
-      - title: /Perhotelan
-        link: /Kuliner
-    - title: Kesiswaan 
+      - title: Perhotelan
+        link: /page/
+      - title: Kuliner
+        link: /page/
+  - title: Kesiswaan 
     link: /pages/boardingschool
   - title: Hubungan Industri
     link: /pages/profil
