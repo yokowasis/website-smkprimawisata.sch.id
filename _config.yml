@@ -30,16 +30,21 @@ email: smkprimawisata20@gmail.com
 phone: "(021) 583586635"
 
 menus:
-  - title: Home
+  - title: Beranda
     link: /page/
-  - title: Kurikulum
+  - title: Tentang Kami
     link: #Kompetensi Keahlian
     submenus:
-    - title: Perhotelan
+    - title: Profil Sekolah
       link: /page/
-    - title: Kuliner
+    - title: Visi Misi
       link: /page/
-  - title: Kesiswaan 
+    - title: Kompetensi Keahlian
+      link: #Kurikulum
+      Submenus:
+      - title: /Perhotelan
+        link: /Kuliner
+    - title: Kesiswaan 
     link: /pages/boardingschool
   - title: Hubungan Industri
     link: /pages/profil
