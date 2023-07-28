@@ -31,26 +31,26 @@ phone: "(021) 583586635"
 
 menus:
   - title: Beranda
-    link: /page/
+    link: /
   - title: Tentang Kami
-    link: #Kompetensi Keahlian
+    link: #kompetensi-keahlian
     submenus:
     - title: Profil Sekolah
-      link: /page/
+      link: /pages/profil
     - title: Visi Misi
-      link: /visimisi
-    - title: Prog.Keahlian
-      link: #Programkeahlian
-      Submenus:
-      - title: Perhotelan
-        link: /page/
-      - title: Kuliner
-        link: /page/
+      link: /pages/visimisi
+  - title: Prog.Keahlian
+    link: #program-keahlian
+    submenus:
+    - title: Perhotelan
+      link: /pages/perhotelan
+    - title: Kuliner
+      link: /pages/kuliner
   - title: Kesiswaan
     link: #Kesiswaan
     submenus:
     - title: Ekstrakurikuler 
-      link: /visidanmisi
+      link: /pages/visidanmisi
   - title: Hubungan Industri
     link: /pages/profil
   - title: Download
