@@ -22,7 +22,7 @@ sambutan: >
   sama untuk membangun masa depan yang lebih baik bagi generasi muda.
 
 logo: /images/Capture.PNG
-logofooter: /images/footer_logo.png
+logofooter:  /images/SMK Prima wisata.png
 icon: /images/logo smk.png
 
 alamat: Jl. Raya Bugis No.109 Kembangan Selatan Jakarta Barat 11610
@@ -30,21 +30,27 @@ email: smkprimawisata20@gmail.com
 phone: "(021) 583586635"
 
 menus:
-  - title: Home
+  - title: Beranda
     link: /page/
-  - title: Kurikulum
-    link: /page/  
-  - title: Kesiswaan 
-    link: /pages/boardingschool
-  - title: Program Keahlian
-    link: #program-keahlian
+  - title: Tentang Kami
+    link: #Kompetensi Keahlian
     submenus:
-    - title: Perhotelan
-      link: /pages/perhotelan
-    - title: Perhotelan
-      link: /pages/perhotelan
-    - title: Perhotelan
-      link: /pages/perhotelan
+    - title: Profil Sekolah
+      link: /page/
+    - title: Visi Misi
+      link: /visimisi
+    - title: Prog.Keahlian
+      link: #Programkeahlian
+      Submenus:
+      - title: Perhotelan
+        link: /page/
+      - title: Kuliner
+        link: /page/
+  - title: Kesiswaan
+    link: #Kesiswaan
+    submenus:
+    - title: Ekstrakurikuler 
+      link: /visidanmisi
   - title: Hubungan Industri
     link: /pages/profil
   - title: Download
@@ -79,7 +85,12 @@ sliders:
     image: /images/Photo Guru Guru.jpeg
     link: /category/berita
     linktext: INFO TERBARU
-
+  - title: SMK PRIMAWISATA 
+    text: Selamat Datang
+    image: /images/DSCF7462.JPG
+    link: /category/berita
+    linktext: INFO TERBARU
+    
 galleries:
   - title: Foto 1
     img: /images/WhatsApp Image 2023-07-15 at 13.39.14.jpeg
@@ -111,7 +122,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
 
-copyright: © copyright 2023 Noerdzamann
+copyright: © copyright 2023 Admin
 
 # Theme-specific settings
 
