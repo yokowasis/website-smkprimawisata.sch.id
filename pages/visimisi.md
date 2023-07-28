@@ -7,14 +7,13 @@ layout: default
 A. VISI SMK PRIMA WISATA “Menjadi Institusi Pendidikan Berbasis Entrepreneurship dengan keunggulan Kompetetif Nasional dan Global Berdasarkan Iman dan Taqwa”.
 
 B. MISI SMK PRIMA WISATA Mengacu pada visi SMK Prima Wisata diatas, dan tujuan umum pendidikan menengah kejuruan, misi sekolah dalam mengembangkan pendidikan ini adalah sebagai berikut:
-
 Mengelola sekolah dengan sistem manajemen mutu yang mengakar pada kepribadian bangsa.
 Mendidik siswa berakhlaq mulia sehingga menghasilkan lulusan yang berkualitas tinggi.
 Menyiapkan tamatan yang handal yang mampu bekerja secara profesional, disiplin dan mandiri.
 Menerapkan ilmu dan pengetahuan, bermotivasi tinggi dan dapat berkompetitif di dunia kerja
 menumbuh kembangkan kewirausahaan yang kreatif, produktif, inovatif dan berwawasan kebangsaan.
-C. TUJUAN SMK PRIMA WISATA Tujuan SMK PRIMA WISATA :
 
+C. TUJUAN SMK PRIMA WISATA Tujuan SMK PRIMA WISATA :
 Menyelenggarakan pendidikan dan kepelatihan bagi SDM sekolah yang selaras dengan perkembangan ilmu pengetahuan, teknologi, dinamika sosial dan budaya bangsa.
 Menyelenggarakan pendidikan dan pembelajaran berdasarkan kurikulum nasional berbasis kearifan lokal dalam Kerangka Kompetensi Nasional Indonesia.
 Membangun etos kerja dalam lingkungan yang nyaman untuk senantiasa berprestasi tiada henti.
