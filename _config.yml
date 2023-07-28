@@ -50,7 +50,7 @@ menus:
     link: #Kesiswaan
     submenus:
     - title: Ekstrakurikuler 
-      link: /visidanmisi
+      link:  /visidanmisi
   - title: Hubungan Industri
     link: /pages/profil
   - title: Download
