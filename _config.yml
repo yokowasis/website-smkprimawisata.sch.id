@@ -47,9 +47,9 @@ menus:
       - title: Kuliner
         link: /page/
   - title: Kesiswaan
-    link: #Kompetensi Keahlian
+    link: #Kesiswaan
     submenus:
-    - title : Ekstrakurikuler 
+    - title: Ekstrakurikuler 
       link: /pages/boardingschool
   - title: Hubungan Industri
     link: /pages/profil
