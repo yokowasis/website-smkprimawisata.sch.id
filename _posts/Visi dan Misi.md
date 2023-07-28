@@ -1,11 +1,11 @@
-ss---
+---
 layout: post
-title: "4 Dampak Positif Penggunaan Media Sosial di Kehidupan Sehari-hari"
-date: 2023-01-30
-categories: Berita
-img: https://asset.kompas.com/crops/7NiOCG5IO9HArWHndVTRRNLa-Mo=/0x0:917x611/750x500/data/photo/2022/11/18/6377237c17e09.jpg
-author: Wasis H.S.
-editor: Wasis H.S.
+title: Visi, Misi, dan Tujuan SMK Prima Wisata
+date: 2023-07-27
+categories: Profil
+img: 
+author: admin
+editor: admin
 ---
 A.	VISI SMK PRIMA WISATA 
 “Menjadi Institusi Pendidikan Berbasis Entrepreneurship dengan keunggulan Kompetetif Nasional dan Global Berdasarkan Iman dan Taqwa”.
