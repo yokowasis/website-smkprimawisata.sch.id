@@ -36,6 +36,15 @@ menus:
     link: /page/  
   - title: Kesiswaan 
     link: /pages/boardingschool
+  - title: Program Keahlian
+    link: #program-keahlian
+    submenus:
+    - title: Perhotelan
+      link: /pages/perhotelan
+    - title: Perhotelan
+      link: /pages/perhotelan
+    - title: Perhotelan
+      link: /pages/perhotelan
   - title: Hubungan Industri
     link: /pages/profil
   - title: Download

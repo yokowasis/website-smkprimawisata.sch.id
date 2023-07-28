@@ -153,7 +153,7 @@ menus:
     link: /info-ppdb
 ```
 
-menjadi :
+menjadi :L
 
 ```
 menus:
@@ -163,9 +163,9 @@ menus:
     link: #info-ppdb
     submenus:
     - title: Jadwal PPDB
-      link: /jadwal-ppdb
+      link: /pages/jadwal-ppdb
     - title: Pengumuman
-      link: /pengumuman-ppdb
+      link: /pages/pengumuman-ppdb
 ```
 
 perhatikan bagian link root menu berubah dan diawali dengan `#` bukan lagi dengan `/`.
