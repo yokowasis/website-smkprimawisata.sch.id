@@ -36,7 +36,7 @@ menus:
     link: #Kompetensi Keahlian
     submenus:
     - title: Profil Sekolah
-      link: /page/
+      link: /visidanmisi
     - title: Visi Misi
       link: /visimisi
     - title: Prog. Keahlian
