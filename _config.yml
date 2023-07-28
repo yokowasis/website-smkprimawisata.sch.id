@@ -38,7 +38,7 @@ menus:
     - title: Profil Sekolah
       link: /page/
     - title: Visi Misi
-      link: /_posts/2023-07-27-visidanmisi.md
+      link: /page/_posts/2023-07-27-visidanmisi.md
     - title: Prog. Keahlian
       link: #Kurikulum
       Submenus:
