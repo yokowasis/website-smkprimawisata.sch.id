@@ -28,7 +28,4 @@ Konsentrasi Keahlian Perhotelan Mata pelajaran Perhotelan bertujuan membekali pe
 Konsentrasi Keahlian Kuliner Mata pelajaran Kuliner bertujuan membekali peserta didik dengan kemampuan softskill dan hardskill melalui proses pembelajaran sehingga peserta didik mampu : a. menerapkan prosedur Kesehatan dan Keselamatan Kerja (K3); b. menerapkan pengetahuan tentang alat memasak dan bahan makanan; c. menganalisis resep, makanan, dan minuman; d. mengaplikasikan proses persiapan, pembuatan hingga penyajian dan pengemasan makanan dan minuman; e. melakukan pelayanan makan dan minum sesuai dengan standar industri; dan f. mendemonstrasikan praktik masakan Kontinental, Oriental, Indonesia, Pastry Bakery dan Kue Indonesia sesuai standar industri. g. mendemonstrasikan praktik masakan Kontinental, Oriental, Indonesia, Pastry Bakery dan Kue Indonesia sesuai standar industri.
 
 
-**Contact Person/WA : 085239848555 (JUMRAH, S.Pd); 081246558592 (ANDALUS)**
 
-PPDB MAN 2 Kota Bima
-{: style="text-align:center"}
