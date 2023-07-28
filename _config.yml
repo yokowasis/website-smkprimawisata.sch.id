@@ -39,8 +39,8 @@ menus:
       link: /page/
     - title: Visi Misi
       link: /visimisi
-    - title: Prog. Keahlian
-      link: #Kurikulum
+    - title: Prog.Keahlian
+      link: #Programkeahlian
       Submenus:
       - title: Perhotelan
         link: /page/
