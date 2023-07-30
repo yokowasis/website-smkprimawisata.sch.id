@@ -100,7 +100,9 @@ galleries:
   - title: Foto 3
     img: /images/PW (2).jpg
   - title: Foto 4
-    img: /mages/PW (3).jpg
+    img: /images/PW (3).jpg
+  - title: Foto 4
+    img: /images/PW (4).jpg
 
 jekyll-archives:
   enabled: all
