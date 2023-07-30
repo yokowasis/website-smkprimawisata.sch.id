@@ -2,7 +2,10 @@
 layout: default
 ---
 Kuliner
-Membekali peserta didik dengan keterampilan, pengetahuan dan sikap agar kompeten dalam mengolah dan menyajikan makanan kontinental, dan makanan Indonesia yang terdiri dari makanan pembuka, makanan pokok, lauk pauk, dan makanan penutup, mengolah dan menyajikan produk pastry bakery, cake dan kue Indonesia, serta dapat melayani makan dan minum baik di restoran maupun di kamar tamu, dan menata meja prasmanan.
+Membekali peserta didik dengan keterampilan, pengetahuan dan sikap agar kompeten dalam mengolah dan menyajikan makanan kontinental, dan makanan Indonesia yang terdiri 
+dari makanan pembuka, makanan pokok, lauk pauk, dan makanan penutup, mengolah dan menyajikan produk pastry bakery, cake dan kue Indonesia, serta dapat melayani makan 
+dan minum baik di restoran maupun di kamar tamu, dan menata meja prasmanan.
+
 KOMPETENSI KEAHLIAN YANG DIAJARKAN :
 A. DASAR KEJURUAN (Dasar Kuliner) :
 1. Sanitasi, Hygiene dan Keselamatan Kerja
