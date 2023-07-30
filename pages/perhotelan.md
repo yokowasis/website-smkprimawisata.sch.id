@@ -15,8 +15,9 @@ A. DASAR KEJURUAN (Dasar Program Keahlian Perhotelan)
 
 B. KONSENTRASI KEAHLIAN PERHOTELAN
 1.	Front Office ( Reservasi, jasa Porter, layanan  Reception, memproses transaksi keuangan, melakukan komunikasi melalui Telepon )
-2.	Housekeeping dan Laundry ( Menyediakan layanan housekeeping untuk tamu, membersihkan lokasi/area dan peralatan,  merangkai bunga , menyiapkan kamar untuk tamu, menangani kehilangan dan penemuan barang, menangani linen, pakaian seragam karyawan dan tamu, melaksanakan proses laundry, dan layanan Valet Laundry )
-3.	Food and Beverage Service (menyediakan layanan makanan dan minuman, menyediakan room service, menerima dan menyimpan persediaan barang )
+2.	Housekeeping dan Laundry ( Menyediakan layanan housekeeping untuk tamu, membersihkan lokasi/area dan peralatan,  merangkai bunga , menyiapkan kamar untuk tamu,
+    menangani kehilangan dan penemuan barang, menangani linen, pakaian seragam karyawan dan tamu, melaksanakan proses laundry, dan layanan Valet Laundry )
+4.	Food and Beverage Service (menyediakan layanan makanan dan minuman, menyediakan room service, menerima dan menyimpan persediaan barang )
 
 C. LINGKUP PEKERJAAN :
 1.	Reservation
