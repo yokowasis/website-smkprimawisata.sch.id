@@ -3,23 +3,26 @@ layout: default
 ---
 
 Jurusan Perhotelan
-Program Keahlian Perhotelan merupakan suatu program yang menghasilkan tenaga ahli dalam bidang perhotelan yang terampil dan kompeten di bidang pelayanan dasar
-perhotelan khususnya pemenuhan kebutuhan dasar manusia. Dalam program keahlian ini meliputi konsentrasi keahlian perhotelan dan restoran. Kurikulum program keahlian
-Perhotelan mengadopsi unit-unit kompetensi yang tercantum dalam Skema Sertifikasi KKNI Level II Kompetensi Keahlian Perhotelan. Hal bertujuan untuk menyiapkan peserta
-didik SMK memiliki kompetensi bidang pariwisata yang berstandar internasional, sekaligus sebagai modal dalam penerapan Masyarakat Ekonomi ASEAN.
-Kurikulum dan proses pembelajaran dirancang untu mendorong peserta didik untuk aktif, kreatif, mandiri, percaya diri, dan menjadi generasi yang berbasis pada Profil
-Pelajar Pancasila cinta. Kegiatan praktik baik sekolah maupun praktik kerja industry dipersiapkan dengan baik untuk membentuk mental yang kuat dan mengasah ketrampilan
-serta keahlian peserta didik. Hal ini bertujuan untuk menyiapkan lulusan yang siap bekerja, melanjutkan ke jenjang Pendidikan yang lebih tinggi, atau berwirausaha.
-Program keahlian perhotelan merupakan program keahlian yang prospektif. Lulusan kompetensi ini dapat bekerja di berbagai bidang industry terutama industry pariwisata,
-karena pada dasarnya setiap industri pasti membutuhkan komponen Hotel dan Restoran. Dari sekian banyak propek pekerjaan, berikut ini beberapa jenis pekerjaan yang
-dapat digeluti oleh lulusan Hotel dan Restoran, diantaranya:
-1. Karyawan Hotel
-2. Industri Restoran
-3. Chef
-4. Wedding Organizer
-5. Resepsionis
-6. Travel Agent
-7. Barista
-8. Customer Service
-9. Tour Guide
-10. Pengusaha
+Membekali peserta didik dengan pengetahuan, keterampilan dan sikap agar kompeten dalam memberikan layanan di Bidang Front Office, Housekeeping dan Laundry serta di Food & Beverage Service.
+
+KOMPETENSI KEAHLIAN YANG DIAJARKAN :
+A. DASAR KEJURUAN (Dasar Program Keahlian Perhotelan)
+1.	Proses bisnis industri perhotelan
+2.	Perkembangan penerapan teknologi dan isu-isu global terkait dunia pariwisata dan perhotelan
+3.	Profil entrepreneur, job profile, peluang usaha dan pekerjaan/profesi pelayanan jasa perhotelan
+4.	Dasar penerapan layanan prima (excellent service) pada industri perhotelan /industri pelayanan/industri keramahtamahan
+5.	Tahapan operasional perhotelan secara menyeluruh dengan layanan prima (excellent service)
+
+B. KONSENTRASI KEAHLIAN PERHOTELAN
+1.	Front Office ( Reservasi, jasa Porter, layanan  Reception, memproses transaksi keuangan, melakukan komunikasi melalui Telepon )
+2.	Housekeeping dan Laundry ( Menyediakan layanan housekeeping untuk tamu, membersihkan lokasi/area dan peralatan,  merangkai bunga , menyiapkan kamar untuk tamu, menangani kehilangan dan penemuan barang, menangani linen, pakaian seragam karyawan dan tamu, melaksanakan proses laundry, dan layanan Valet Laundry )
+3.	Food and Beverage Service (menyediakan layanan makanan dan minuman, menyediakan room service, menerima dan menyimpan persediaan barang )
+
+C. LINGKUP PEKERJAAN :
+1.	Reservation
+2.	Reception / Front Desk Agent
+3.	Belldesk / Concierge
+4.	Room
+5.	Public Area
+6.	Linen dan Laundry
+
