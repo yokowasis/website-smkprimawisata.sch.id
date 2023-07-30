@@ -96,11 +96,11 @@ galleries:
   - title: Foto 1
     img: /images/Housekeeping.jpg
   - title: Foto 2
-    img: /images/WhatsApp Image 2023-07-15 at 13.39.14.jpeg
+    img: /images/PW (1).jpg
   - title: Foto 3
-    img: /images/WhatsApp Image 2023-07-15 at 13.39.14.jpeg
+    img: /images/PW (2).jpg
   - title: Foto 4
-    img: /images/WhatsApp Image 2023-07-15 at 13.39.14.jpeg
+    img: /mages/PW (3).jpg
 
 jekyll-archives:
   enabled: all
