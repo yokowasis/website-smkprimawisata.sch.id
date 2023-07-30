@@ -44,6 +44,7 @@ menus:
     submenus:
     - title: Perhotelan
       link: /pages/perhotelan
+      image: /images/Housekeeping.jpg
     - title: Kuliner
       link: /pages/kuliner
   - title: Kesiswaan
