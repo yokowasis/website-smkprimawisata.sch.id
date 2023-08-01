@@ -39,6 +39,10 @@ menus:
       link: /pages/profil
     - title: Visi Misi
       link: /pages/visimisi
+    - title: Manajemen 
+      link: /pages/Manajemen
+    - title: Kurikulum 
+      link: /pages/Kurikulum    
   - title: Prog.Keahlian
     link: #program-keahlian
     submenus:
