@@ -35,7 +35,7 @@ menus:
   - title: Tentang Kami
     link: #kompetensi-keahlian
     submenus:
-    - title: Profil Sekolah
+    - title: Profil
       link: /pages/profil
     - title: Visi Misi
       link: /pages/visimisi
