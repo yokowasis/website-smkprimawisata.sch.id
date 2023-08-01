@@ -32,10 +32,10 @@ phone: "(021) 583586635"
 menus:
   - title: Beranda
     link: /
-  - title: Tentang Kami
+  - title: Profil
     link: #kompetensi-keahlian
     submenus:
-    - title: Profil
+    - title: Sejarah
       link: /pages/profil
     - title: Visi Misi
       link: /pages/visimisi
