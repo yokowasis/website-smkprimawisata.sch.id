@@ -59,7 +59,9 @@ menus:
   - title: Hubungan Industri
     link: /pages/profil
   - title: Download
-    link: /
+    link: /page
+  - title: Kegiatan Sekolah
+    link: /page
 
 submenu:
   - title: PPDB
