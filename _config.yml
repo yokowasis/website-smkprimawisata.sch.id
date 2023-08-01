@@ -60,7 +60,8 @@ menus:
       link: /pages/
     - title: Kegiatan P5 
       link: /page/Kegiatan p5
-      link: "https://youtube.com/watch?v=qkmr-pJ1QEA&feature=share"   
+      image: /images/P5 2.PNG
+      linktext: "https://youtube.com/watch?v=qkmr-pJ1QEA&feature=share"   
   - title: IDUKA
     link: /pages/profil
   - title: Kegiatan
