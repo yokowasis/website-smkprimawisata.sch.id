@@ -56,12 +56,16 @@ menus:
     submenus:
     - title: Ekstrakurikuler 
       link: /pages/visidanmisi
+    - title: OSIS 
+      link: /pages/
+    - title: Kegiatan P5 
+      link: "https://youtube.com/watch?v=qkmr-pJ1QEA&feature=share"   
   - title: Hubungan Industri
     link: /pages/profil
   - title: Download
-    link: /page
+    link: /page/
   - title: Kegiatan Sekolah
-    link: /page
+    link: /page/
 
 submenu:
   - title: PPDB
