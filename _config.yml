@@ -48,7 +48,7 @@ menus:
     submenus:
     - title: Perhotelan
       link: /pages/perhotelan
-      image: /images/DSCF7462.JPG 
+      image: /images/sosmed/logo_km_315.png 
     - title: Kuliner
       link: /pages/kuliner
   - title: Kesiswaan
