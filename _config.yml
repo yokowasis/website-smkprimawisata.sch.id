@@ -66,6 +66,15 @@ menus:
     link: /page/
   - title: Download
     link: /page/
+  - title: Link Web
+    link: #Link
+    submenus:
+    - title: E-Prakerin
+      Link: /Page/
+    - title: E-Learning
+      Link: /Page/
+    - title: BKK
+      Link: /Page/
 
 submenu:
   - title: PPDB
