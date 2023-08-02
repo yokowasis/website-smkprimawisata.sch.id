@@ -91,21 +91,10 @@ submenu:
     icon: /images/calendar.png
 
 sliders:
-  - title: SMK PRIMAWISATA 
-    text: Selamat Datang
     image: /images/Photo Guru Guru.jpeg
-    link: /category/berita
-    linktext: INFO TERBARU
-  - title: SMK PRIMAWISATA 
-    text: Selamat Datang
     image: /images/DSCF7462.JPG
-    link: /category/berita
-    linktext: INFO TERBARU
-  - title: SMK PRIMAWISATA 
-    text: Selamat Datang
     image: /images/IMG_4667.JPG
-    link: /category/berita
-    linktext: INFO TERBARU
+
     
 galleries:
   - title: Foto 1
