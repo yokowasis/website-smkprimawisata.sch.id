@@ -2,7 +2,7 @@
 layout: post
 title: "Mengenal Lebih Dekat Sekolah Penggerak"
 date: 2023-08-02
-categories: Artikel
+categories: Berita
 img: https://gtk.kemdikbud.go.id/assets/images/news/1612196776-Sekolah%20Penggerak.jpg
 author: Dede Nurjaman
 editor: Dede Nurjaman
