@@ -64,10 +64,8 @@ menus:
     link: /pages/profil
   - title: Kegiatan
     link: /page/
-  - title: Download
-    link: /page/
   - title: Link Web
-    link: #Link
+    link: /page/
     submenus:
     - title: E-Prakerin
       Link: /Page/
