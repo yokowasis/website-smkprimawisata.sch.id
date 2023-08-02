@@ -34,7 +34,7 @@ menus:
   - title: Beranda
     link: /
   - title: Profil
-    link: #kompetensi-keahlian
+    link: /#profil
     submenus:
     - title: Sejarah
       link: /pages/profil
@@ -45,7 +45,7 @@ menus:
     - title: Kurikulum 
       link: /pages/Kurikulum    
   - title: Prog.Keahlian
-    link: #program-keahlian
+    link: /#program-keahlian
     submenus:
     - title: Perhotelan
       link: /pages/perhotelan
@@ -53,7 +53,7 @@ menus:
     - title: Kuliner
       link: /pages/kuliner
   - title: Kesiswaan
-    link: #Kesiswaan
+    link: /#Kesiswaan
     submenus:
     - title: Ekstrakurikuler 
       link: /pages/visidanmisi
