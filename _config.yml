@@ -91,11 +91,17 @@ submenu:
     icon: /images/calendar.png
 
 sliders:
-  - image: /images/Photo Guru Guru.jpeg
+  - title: Selamat Datang
+    text: SMK PRIMA WISATA
+    image: /images/Photo Guru Guru.jpeg
     linktext: Info Terbaru
-  - image: /images/DSCF7462.JPG
+  - title: Selamat Datang
+    text: SMK PRIMA WISATA 
+    image: /images/DSCF7462.JPG
     linktext: Info Terbaru
-  - image: /images/IMG_4667.JPG
+  - title: Selamat Datang
+    text: SMK PRIMA WISATA 
+    image: /images/IMG_4667.JPG
     linktext: Info Terbaru
 
     
