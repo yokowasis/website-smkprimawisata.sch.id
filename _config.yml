@@ -115,15 +115,15 @@ sliders:
 
     
 galleries:
-  - title: Foto 1
+  - title: Praktik Housekeeping
     img: /images/Housekeeping.jpg
-  - title: Foto 2
+  - title: Praktik Pengolahan dan Penyajian Makanan
     img: /images/PW (1).jpg
-  - title: Foto 3
+  - title: F&B Service
     img: /images/PW (2).jpg
-  - title: Foto 4
+  - title: Housekeeping
     img: /images/PW (3).jpg
-  - title: Foto 4
+  - title: Rservasi
     img: /images/PW (4).jpg
 
 jekyll-archives:
