@@ -94,14 +94,17 @@ sliders:
   - title: Selamat Datang
     text: SMK PRIMA WISATA
     image: /images/Photo Guru Guru.jpeg
+    link: /page/
     linktext: Info Terbaru
   - title: Selamat Datang
     text: SMK PRIMA WISATA 
     image: /images/DSCF7462.JPG
+    link: /page/
     linktext: Info Terbaru
   - title: Selamat Datang
     text: SMK PRIMA WISATA 
     image: /images/IMG_4667.JPG
+    link: /page/
     linktext: Info Terbaru
 
     
