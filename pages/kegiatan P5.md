@@ -16,7 +16,8 @@ Profil Pelajar Pancasila memiliki 6 dimensi utama meliputi:
 6.	Kreatif. 
 Salah satu langkah untuk mewujudkan Profil Pelajar Pancasila tersebut dilakukan melalui Projek Penguatan Profil Pelajar Pancasila (P5), yaitu pembelajaran lintas disiplin ilmu dalam mengamati dan memikirkan solusi terhadap permasalahan di lingkungan 
 
-![P5 2](https://github.com/yokowasis/website-smkprimawisata.sch.id/assets/140308339/7a7995d6-cfdc-4fcb-a723-844f9bdb9cd5)
+![](<iframe width="560" height="315" src="https://www.youtube.com/embed/qkmr-pJ1QEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>)
+
 
 
 
