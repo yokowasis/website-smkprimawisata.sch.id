@@ -11,7 +11,7 @@ Struktur kurikulum berisi mata pelajaran yang mewakili sekumpulan muatan pembela
 ## Struktur Kurikulum Merdeka Fase E
 ![Fase E](/images/strutur Kurikulum Merdeka Fase A.PNG)
 ## Struktur Kurikulum Merdeka Fase F
-![Fase F](images/strutur Kurikulum Merdeka Fase F.PNG)
+![Fase F](/images/strutur Kurikulum Merdeka Fase F.PNG)
 
 
 
