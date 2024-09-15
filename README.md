@@ -188,3 +188,4 @@ galleries:
   - title: Pawai Hari Kemerdekaan
     img: /gallery/pawai.jpeg
 ```
+
